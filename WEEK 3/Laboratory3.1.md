@@ -1,8 +1,8 @@
-# Laboratory Activity 5.1: C# Multidimensional and Jagged Arrays
+# Laboratory Activity 3.1: C# Multidimensional and Jagged Arrays
 
 **Teacher:** Engr. EJ S. Ramirez  
-**Subject:** NET Technology 2  
-**Week:** 7
+**Subject:** NET Technology 2 (C# Fundamentals)  
+**Week:** 3
 
 ## Laboratory Objectives
 
