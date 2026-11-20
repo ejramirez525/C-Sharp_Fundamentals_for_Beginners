@@ -1,8 +1,8 @@
-# Laboratory Activity 5.2: C# Exception and File Handling
+# Laboratory Activity 3.2: C# Exception and File Handling
 
 **Teacher:** Engr. EJ S. Ramirez  
-**Subject:** NET Technology 2  
-**Week:** 7
+**Subject:** NET Technology 2 (C# Fundamentals)  
+**Week:** 3
 
 ## Laboratory Objectives
 
@@ -19,7 +19,7 @@ At the end of this laboratory activity, students should be able to:
 ## Directions
 
 1. Create a C# console application for this laboratory activity.
-2. Create and run the four source files: `Laboratory5.2Problem1.cs` through `Laboratory5.2Problem4.cs`.
+2. Create and run the four source files: `Problem1.cs` through `Problem4.cs`.
 3. Read the corresponding problem statement and pseudocode before coding.
 4. Use the exception-handling structure specified in each problem.
 5. For Problems 3 and 4, run the program in a folder where it has permission to create and modify files.
