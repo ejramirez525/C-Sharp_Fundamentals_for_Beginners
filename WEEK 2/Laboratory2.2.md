@@ -19,7 +19,7 @@ At the end of this laboratory activity, students should be able to:
 ## Directions
 
 1. Create a C# console application for this laboratory activity.
-2. Use the corresponding source file for each problem: [Laboratory4.2Problem1.cs](./Laboratory4.2Problem1.cs) through [Laboratory4.2Problem7.cs](./Laboratory4.2Problem7.cs).
+2. Use the corresponding source file for each problem: `Problem1.cs` to `Problem7.cs`.
 3. Read the problem statement and pseudocode before writing or modifying the program.
 4. Use the loop specified in each problem. Do not replace it with repeated output statements or another loop type.
 5. Use clear variable names and proper C# indentation.
