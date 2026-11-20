@@ -1,8 +1,8 @@
-# Laboratory Activity 4.2: C# Repetition Statements
+# Laboratory Activity 2.2: C# Repetition Statements
 
 **Teacher:** Engr. EJ S. Ramirez  
-**Subject:** NET Technology 2  
-**Week:** 6
+**Subject:** NET Technology 2 (C# Fundamentals)  
+**Week:** 2
 
 ## Laboratory Objectives
 
