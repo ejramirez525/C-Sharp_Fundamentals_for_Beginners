@@ -1,7 +1,7 @@
 # Laboratory Activity 2.1: C# Conditional Statements and Loops
 
 **Teacher:** Engr. EJ S. Ramirez  
-**Subject:** NET Technology (C# Fundamentals)
+**Subject:** NET Technology (C# Fundamentals)  
 **Week:** 2
 
 ## Laboratory Objectives
